@@ -8,6 +8,7 @@
 - https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns
 - https://leetcode.com/discuss/interview-question/448285/List-of-questions-sorted-by-common-patterns
 - https://leetcode.com/discuss/career/454960/how-i-train-myself-for-google-internship-interview
+- https://www.youtube.com/watch?v=JSGPyRtbn8s
 
 ### Good Threads
 
