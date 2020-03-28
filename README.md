@@ -49,3 +49,18 @@
 
 - https://www.entrepreneur.com/article/242813
 - https://candor.co/guides/salary-negotiation/
+
+## Topics to Improve
+- MergeSort
+- Binary Search Tree
+- Trie
+- Segment Tree
+- QuickSort
+- HeapSort
+- All Sorts - Cyclic Sort
+
+- Dynamic Programming
+- Greedy Approach
+- Graphs - Dijkstara, Bellman Ford
+- Bipartite Partitioning
+- Merge Intervals 
