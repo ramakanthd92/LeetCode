@@ -5,6 +5,7 @@
 ### Patterns
 
 - https://docs.google.com/spreadsheets/d/1SbpY-04Cz8EWw3A_LBUmDEXKUMO31DBjfeMoA0dlfIA/edit#gid=1486450114
+- https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed
 - https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns
 - https://leetcode.com/discuss/interview-question/448285/List-of-questions-sorted-by-common-patterns
 - https://leetcode.com/discuss/career/454960/how-i-train-myself-for-google-internship-interview
