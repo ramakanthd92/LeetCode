@@ -9,6 +9,7 @@
 - https://leetcode.com/discuss/interview-question/448285/List-of-questions-sorted-by-common-patterns
 - https://leetcode.com/discuss/career/454960/how-i-train-myself-for-google-internship-interview
 - https://www.youtube.com/watch?v=JSGPyRtbn8s
+- https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/
 
 ### Good Threads
 
@@ -19,7 +20,8 @@
 - https://leetcode.com/discuss/interview-experience/498324/nda-google-l3-bangalore-jan-2020-accepted
 
 ## Interviewing 
-
+- https://github.com/yangshun/tech-interview-handbook 
+- https://interviewing.io/recordings/
 - https://www.youtube.com/watch?v=DPGXJ3PNaDc
 - https://www.youtube.com/watch?v=WfqU3RVcieM
 - https://medium.com/@XiaohanZeng/i-interviewed-at-five-top-companies-in-silicon-valley-in-five-days-and-luckily-got-five-job-offers-25178cf74e0f
@@ -49,6 +51,19 @@
 
 - https://www.entrepreneur.com/article/242813
 - https://candor.co/guides/salary-negotiation/
+- https://www.levels.fyi/ 
+
+## Stuff to Know
+- https://medium.com/@jeeyoungk/why-i-love-databases-1d4cc433685f
+- https://medium.com/@jeeyoungk/how-sharding-works-b4dec46b3f6 
+
+## Career Advice 
+- https://www.analyticsvidhya.com/blog/2019/02/mystory-how-learned-data-science-successfully-switched-careers/
+- https://meiert.com/en/blog/googliness/ 
+- https://www.amazon.jobs/en/principles 
+- https://www.rooftopslushie.com/request/Switch%20to%20BackendData%20Engineering%20from%20Full-stack%20Dev-1456
+- https://www.rooftopslushie.com/request/DS%20infra%20to%20sw%20mle%20role-2618
+- https://www.rooftopslushie.com/request/Career%20Advice%20for%20entry%20level%20software%20engineer-2069
 
 ## Topics to Improve
 - MergeSort
