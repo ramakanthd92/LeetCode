@@ -20,6 +20,9 @@
 - https://leetcode.com/discuss/interview-experience/550220/google-swel4-bangalore-march-2020-offer
 - https://leetcode.com/discuss/interview-experience/498324/nda-google-l3-bangalore-jan-2020-accepted
 
+## Ideas to develop yourself 
+- How I Learned to Code in 6 Months - And Got Into Google  - https://www.youtube.com/watch?v=3IlaxZf3-s8
+
 ## Interviewing 
 - https://github.com/yangshun/tech-interview-handbook 
 - https://interviewing.io/recordings/
