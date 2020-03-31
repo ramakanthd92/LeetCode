@@ -13,7 +13,7 @@
 - https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/
 
 ### Good Threads
-
+- https://leetcode.com/discuss/interview-experience/553913/uber-sse-ii-level-5b-india-mar-2020-reject
 - https://leetcode.com/discuss/interview-experience/469785/Finally-I-Did-it.Thanks-Leetcode-Love-you-so-much-Microsoft-or-Offer
 - https://leetcode.com/discuss/interview-experience/534905/amazon-sde2-seattle-feb-2020-offer
 - https://leetcode.com/discuss/career/523331/Quest-for-domain-change-(after-15-years-of-experience)-ended-with-an-offer-from-Google
