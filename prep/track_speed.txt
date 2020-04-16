@@ -1,0 +1,37 @@
+   Problem Name     -  Difficulty  -    Platform     -     Start     - End  -   Timing      - Date              - status 
+1. Triples with Bitwise AND Equal To Zero - Hard   - LeetCode   -   8:57 PM   -   30 mins   -      - 14/2/2019  -  wrong logic
+2. Unique Paths III -   Hard  - LeetCode   - 7:00 PM -   7:45 PM -  1 hour - 14/2/2019  - almost correct
+3. Delete Columns to Make Sorted III - Hard  - LeetCode - 8:27 AM -  9:42 AM  - 1hr 45 min   - 15/2/2019 - Completed with help
+4. Max Frequency Stack -  LeetCode - 10:13 AM - 10:53 AM  - 40 min  - 15/2/2019 - did not code
+5. Odd Even Jumps - LeetCode - Hard -  11:01 AM -    - 15/2/2019 -
+6. Max Increase to Keep City Skyline - LeetCode - Medium -  11:33 AM  -  11:47 AM - 14 min -  15/2/2019 - Correct code
+7. Range Sum of BST - LeetCode - Medium - 11:48 AM - 12:07 AM -  19 min - 15/2/2019   - Correct code
+8. Encode and Decode TinyUrl - Leetcode - Medium - 12:08 AM - 12:25 AM - 17 min - 15/2/2019 - Correct Code
+9. Insert into a binary search tree - Leetcode - Medium - 12:26 AM - 12:35 AM - 10 min - 15/2/2019 - Correct Code
+10. Construct Maximum Binary Tree - Leetcode - Medium - 12:36 AM - 10 PM  - 40 min approx - 15/2/2019 - Correct Code
+11. Reveal Cards in Increasing Order - Leetcode - Medium - 2:22 PM - 3:22 PM  - 1 hour approx - 16/2/2019  - Correct Code
+12. Find & Replace Patterns - LeetCode - Medium -  3:30 PM - 3:51 PM - 21 min - 16/2/2019 - Correct Code
+13. Toys - HackerEarth - February Circuits - 4:08 PM - 4:35 PM - 20 min  - 16/2/2019 - Correct Code
+14. Counting Bits - LeetCode - Medium - 12:31 PM - 12:58 PM  - 28 min  - 17/2/2019 - Correct Code
+15. 4 problems on HackerRank - Booking.com challenge - 1:00 PM - 2:15 PM - 1:15 min - 17/2/2019 - 2 Correct code, 1 WA, 1 Not Attempted 
+16. Edit Distance -  LeetCode - Hard - 8:30 AM - 9:55 AM - 1:25 min - 18/2/2019 - Correct code
+17. 3Sum - Leetcode - Medium - 11:00 PM - 8:55 AM - 1:00 hr - 19/2/2019 - Not Optimal - should have found O(n^2) solution
+18. Maintain sequence of letters - 9:00 AM - 9:10 AM - 10 min - 19/2/2019 - Understood the question wrongly
+19. Binary Tree Inorder Traversal - 8:20 AM - 9:20 AM - 1:00 hr  - 20/2/2019 - Correct code
+20. Permutations - 8:34 AM -         -         - 20/2/2019 - Unnecessariy Complexity  
+21. Build Binary Tree from Preorder & Inorder - 10:30 AM   - 12:10 PM  - 1:40 min -  14/4/2019 - Recusrsion - complicated - correct inputs not given to function
+22. Increasing Triplet Subsequence - 12:12 PM - 12:30 PM  - 28 min -  14/4/2019  -  Just came up with idea - did not code - idea similar to explained in discussion section  
+23. Set Matrix Zeroes - 3:52 PM  -  4:00 PM  - 10 min -  14/4/2019 - Came up with Idea, Reasons well with the existing solution
+24. Longest Substring with atlease K repeating characters  - 4:05 PM - 4:30 PM - 25 min - 14/4/2019 - Could not come up with solution, Understood importance of chanracters lenght (26) to improve the solution of problems
+25. Implement a Trie Node - 4:30 PM - 5:00 PM - 30 mins = 14/4/2019 - Gave Proper solution matching Discussion answers
+26. Populating Next Pointers in Each Node - 5:00 PM - 5:40 PM - 40 mins - 14/4/2019 -  Answered this yesterday in an interview - Should have asked better questions beforehand - my solution would take O(NL) time, could have done in O(N) time 
+27. Course Schedule - 5:42 PM -     -       - 14/4/2019  - 
+28. Merge Intervals - 8:41 PM - 9:11 PM - 30 mins - 14/4/2019  - Wrote the solution & ran it. - Understood the answer - Correct code - got this question in Google Phone screen interview - 2015 Dec
+29. Word Break - 9:13 PM - 9:35 PM - 17 min -  14/4/2019 - Wrote the solution & ran it - should have done dry run without compiler - Correct code after multiple iterations 
+30. Sort List - 11:27 PM - 12:18 AM  - 50 min - 14/4/2019 - Implemented & tested the solution, Some minor issues & edge cases missed - Logic of divide & merge proper using Linked list
+31. Course Schedule II - 7:45 AM - 8:32 AM - 47 mins -   15/4/2019 - Learnt about using Topological Sorting - using DFS 
+32. Gas Station - 45 mins - 15/4/2019 - Could not come up with the final solution - Greedy solution
+33. Search in a rotated array - 1:30 PM - 2:20 PM - 50 mins - 15/4/2019 - used unconventional route.. Unncesseary complication.. when a similar simple solution with same complexity could be found
+34. Coin Change - 3:30 PM - 4:30 PM - 1 hr - 15/4/2019 - Could not understand the exact complexity of problem.. understood the DP solution
+35. Max Product Subarray - 7:25 PM -  7:57 PM  - 15/4/2019 -  15/4/2019 - Almost reached the solution, but could not identify the proper logic
+36. Longest Substring without repeating characters - 8:00 PM  - 8:20 PM - 20 mins - 15/4/2019 - Sliding window based solution arrived at with some minor errors, Code needs to be more clean 

@@ -1,0 +1,28 @@
+[DP]
+LIS - O(n^2) - DP solution - optimal subproblems found
+DP - Base Conditions are very important
+can be mostly the vector / matrix traversal bottleneck O(n^2) or O(n) complexity
+
+
+
+[Trees]
+
+
+
+
+[Subsequences]
+
+
+
+
+
+[General Tips]
+1. Need to arrive at Optimal solution
+2. Clear, Readable, Maintainable code
+3. Time need to be taken care of
+4. Try to find patterns quickly, generalize don't go deep into test cases
+5. Prioritize topics
+
+
+System Design Questions 
+

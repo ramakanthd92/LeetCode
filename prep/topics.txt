@@ -1,0 +1,43 @@
+Well Practised:
+BFS - O(V+E)    -  O(V)
+DFS - O(V+E)    -  O(V)
+Topological Sort  - O(V+E)   - O(V)
+Recursion    -  
+Tree         - O(N)  - O(N)
+Pre Order    - O(N)  - O(N)
+Post Order   - O(N)  - O(N)
+In Order     - O(N)  - O(N)
+Alphabets    - O(26)  - O(26) ~ O(1)
+Binary Search  - O(LogN)
+Trie          - O(LogN),O(LogN)
+Merge Sort   - O(NLogN)   - O(N)
+Stacks       - O(N),O(N)
+Queues       - O(N),O(N)
+Heaps        - O(LogN), O(LogN)
+HashMaps     - O(1), O(1) 
+Connected Components  
+Linked Lists  - O(N),O(N)
+Two Pointers  
+
+
+Focus Needed:
+Level Order  - 
+Sliding Window      - O(N)
+Quick Sort          - O(NLogN)   - O(LogN)
+Heap Sort            - O(NLogN)  - O(N)
+Greedy Algo          - O(N)
+Dynamic Programming  - O(N^2)
+Shortest Path      - O(N)
+KnapSack           - O(N)
+Pattern Searching  - O(N)
+LCS                - 
+LIS                - 
+BackTracking       - O(N)
+Set - Union Find   - 
+
+Weak Topics:
+Search Problems - Merge based, Sorted, UnSorted Arrays - different constraints
+Sorting Problems - Intervals overlap, Swaps, Kth Smallets element,
+Graph Algorithms - Bipartite Graph, Matching Problems, Directed Graphs, Cycles, Shortest Paths, BackTracking,
+Greedy Algorithms, DP problems
+Pattern Algortihms - KMP, Rabin Karp  

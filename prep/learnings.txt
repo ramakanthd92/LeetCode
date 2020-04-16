@@ -1,0 +1,31 @@
+Razorpay - More Nervous & missed simple questions... More Practise would have helped 
+ 
+ZETA 1st Round - Max number of pages per student - Binary Search based problem
+
+UBER Online 
+
+WALMART 1st Round - Optimal Java solution not provided
+WALMART 2nd Round - Basic simple algo questions unanswered
+
+MMT 1st Round - Optimizations should have been suggested, More indepth study of techniques need to have been thought of
+MMT 2nd Round - HLD, LLD, System Desgin should have been improved
+MMT 3rd Round - Should have solved more System Design Questions
+
+Cure.Fit 2nd Round - Better OOPs Concept understanding & Architectural Awareness
+
+Google Phone Interview - He was suggesting about better connected components based solution - used some other inefficient way.. Needed to quickly come up with proper solution 
+
+
+UBER 1st Round - Should have prepared for Logger Question 
+UBER 2nd Round - Should have thought of Greedy soultion, when they were suggesting O(N^2) DP solution won't suffice
+UBER 3rd Round - Should have better understanding of Current Big Data Frameworks, Kafka, Redis, NoSQL DB's and better 
+                 understanding of HLD, LLD
+
+AMZN 1st Round - Should have thought of O(N) solution for LCA, Should have put more analysis on Next greater element logic
+AMZN 2nd Round - Should have used 26 characters based logic he was suggesting
+
+MSFT 1st Round - Should have done a proper dry run on a small test case before giving solution 
+MSFT 2nd Round - Should have asked more questions - Weaving O(N) solution available for populating Next pointers
+MSFT 3rd Round - Should have stopped the un-necessary calls once found a way to proper DFS solution at a node
+
+
