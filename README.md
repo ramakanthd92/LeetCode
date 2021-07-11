@@ -79,7 +79,3 @@
 - Bipartite Partitioning
 - Merge Intervals 
 
-
-Personal Finance for Programmers:
-https://open.spotify.com/episode/40wy6bcTS72xurCQUh6lKG?si=vLdx7OL8T26k6gA7DDMYJA
-https://www.forbes.com/sites/zackfriedman/2017/03/09/9-money-rules-index-card/#6923d8d32c09
