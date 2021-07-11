@@ -64,7 +64,7 @@
 - https://www.rooftopslushie.com/request/DS%20infra%20to%20sw%20mle%20role-2618
 - https://www.rooftopslushie.com/request/Career%20Advice%20for%20entry%20level%20software%20engineer-2069
 
-## Topics to Improve
+## Important Topics
 - MergeSort
 - Binary Search Tree
 - Trie
