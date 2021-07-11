@@ -51,11 +51,6 @@
 
 - https://datastoriesweb.wordpress.com/
 
-## Negotiation
-
-- https://www.entrepreneur.com/article/242813
-- https://candor.co/guides/salary-negotiation/
-- https://www.levels.fyi/ 
 
 ## Stuff to Know
 - https://medium.com/@jeeyoungk/why-i-love-databases-1d4cc433685f
